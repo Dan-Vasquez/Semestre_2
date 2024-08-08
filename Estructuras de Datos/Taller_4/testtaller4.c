@@ -1,0 +1,62 @@
+#include <stdio.h>
+#include "linkedlisttaller4.h"
+
+int main(){
+   List maria = createList( );
+   List pedro = createList( );
+   maria.add( &maria, 0, 100 );
+   maria.add( &maria, 1, 80 );
+   maria.add( &maria, 2, 15 );
+   maria.add( &maria, 3, 24 );
+   maria.add( &maria, 4, 135 );
+   pedro.add( &pedro, 0, 8 );
+   pedro.add( &pedro, 0, 5 );
+   pedro.add( &pedro, 0, 3 );
+   pedro.add( &pedro, 0, 1000 );
+   maria.display( &maria );
+   printf( "Last element is %d\n", maria.getLast( &maria ) );
+   printf( "Sum is %d\n", maria.sum( &maria ) );
+   printf( "Greatest value is %d\n", maria.greatest( &maria ) );
+   printf( "Increasing value ...\n" );
+   maria.increaseValue( &maria, 15 );
+   maria.display( &maria );
+   printf( "Sum is %d\n", maria.sum( &maria ) );
+   printf( "Swapping ...\n" );
+   maria.swap( &maria, 1, 3 );
+   maria.display( &maria );
+   printf( "Reversing ...\n" );
+   maria.reverse( &maria );
+   printf( "maria " );
+   maria.display( &maria );
+   printf( "pedro " );
+   pedro.display( &pedro );
+   printf( "Concatenating ...\n" );
+   maria.concat( &maria, &pedro );
+   printf( "maria " );
+   maria.display( &maria );
+   printf( "pedro " );
+   pedro.display( &pedro );
+   printf( "Sorting ...\n" );
+   maria.sort( &maria );
+   maria.display( &maria );
+   printf( "Destroying Evens ...\n" );
+   maria.destroyEvens( &maria );
+   maria.display( &maria );
+   pedro.add( &pedro, 0, 45 );
+   pedro.add( &pedro, 1, 23 );
+   pedro.add( &pedro, 2, 61 );
+   pedro.add( &pedro, 3, 27 );
+   pedro.add( &pedro, 4, 4 );
+   pedro.add( &pedro, 5, 32 );
+   pedro.add( &pedro, 6, 11 );
+   pedro.add( &pedro, 7, 69 );
+   pedro.add( &pedro, 8, 41 );
+   pedro.add( &pedro, 9, 37 );
+   printf( "Performing Magic ...\n" );
+   pedro.magic( &pedro, &maria ); 
+   printf( "pedro " );
+   pedro.display( &pedro );
+   printf( "maria " );
+   maria.display( &maria );
+   return 0;
+}

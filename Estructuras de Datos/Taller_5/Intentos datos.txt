@@ -1,0 +1,7 @@
+intentos
+
+1. inicio 11:6 pm fin 11:42, total 36 mins, vistas 13, errores 7, pense que tendria menos errores de codigo, hacer Array y Linked necesita mas atencion para hacerlo bien.
+
+2. inicio 7:15 am fin 7:45, total 30 mins, vistas 3, errores 4, Esta vez lo hice mucho mejor pero tuve errores pequeños que hicieron que no pudiera hacerlo bien.
+
+3. inicio 8:02 am fin 8:23, total 11 mins, vistas 0, errores 2, Esta vez casi lo consigo pero se me pasaron 1 ";" en array y linked

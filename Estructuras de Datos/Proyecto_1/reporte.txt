@@ -1,0 +1,18 @@
+NOMBRE         CUENTA                  PEDIDO
+==========  =============  =====================================
+koko        800            panes 2, galletas 4, pasteles 2
+sara        1050           panes 3, galletas 3, pasteles 3
+daniel      1750           panes 5, galletas 5, pasteles 5
+INVENTARIO
+=====================================
+panes 36
+galletas 34
+pasteles 36
+=====================================
+INGREDIENTES
+=====================================
+harina 200
+huevos 200
+leche 200
+=====================================
+Total de cuenta 3600

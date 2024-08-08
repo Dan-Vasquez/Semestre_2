@@ -1,0 +1,18 @@
+06/09/2021 19:43:48 el programa inicio
+06/09/2021 19:43:48 daniel fue añadido con 500 de saldo
+06/09/2021 19:43:48 sara fue añadido con 400 de saldo
+06/09/2021 19:43:48 luis fue añadido con 300 de saldo
+06/09/2021 19:43:48 daniel fue buscado
+06/09/2021 19:43:48 luis fue eliminado/a
+06/09/2021 19:43:48 luis cambio su nombre a miguel
+06/09/2021 19:43:48 daniel deposito 6422280
+06/09/2021 19:43:48 miguel deposito 500
+06/09/2021 19:43:48 daniel retiro 100
+06/09/2021 19:43:48 miguel retiro 100
+06/09/2021 19:43:48 se genero una lista
+06/09/2021 19:43:48 se genero un reporte en reporte.txt
+06/09/2021 19:43:48 miguel le transfirio a daniel 100
+06/09/2021 19:43:48 miguel le transfirio a miguel 100
+06/09/2021 19:43:48 se genero una lista
+06/09/2021 19:43:48 se genero una lista
+06/09/2021 19:43:48 el programa termino

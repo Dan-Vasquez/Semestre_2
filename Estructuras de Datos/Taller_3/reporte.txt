@@ -1,0 +1,7 @@
+NOMBRE           SALDO
+========== ===========
+daniel             400
+miguel             800
+Total saldos 1200
+Existen en total 1 cuentas de ahorro
+Existen en total 1 cuentas corrientes

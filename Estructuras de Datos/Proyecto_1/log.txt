@@ -1,0 +1,24 @@
+20/09/2021 20:19:33 El programa inicio
+20/09/2021 20:19:33 Se compraron 500 paquetes de harina
+20/09/2021 20:19:33 Se compraron 500 huevos
+20/09/2021 20:19:33 Se compraron 500 cajas de leche
+20/09/2021 20:19:33 Se realizaron 50 panes
+20/09/2021 20:19:33 Se realizaron 50 galletas
+20/09/2021 20:19:33 Se realizaron 50 pasteles
+20/09/2021 20:19:33 El pedido de daniel fue registrado con una cuenta de 1750
+20/09/2021 20:19:33 El pedido de luis fue registrado con una cuenta de 1400
+20/09/2021 20:19:33 El pedido de sara fue registrado con una cuenta de 1050
+20/09/2021 20:19:33 El pedido de koko fue registrado con una cuenta de 700
+20/09/2021 20:19:33 Se consulto el pedido de daniel
+20/09/2021 20:19:33 Se elimino luis
+20/09/2021 20:19:33 Se modifico el pedido de koko, con una nueva cuenta de 800
+20/09/2021 20:19:33 Se listaron los pedidos
+20/09/2021 20:19:33 Se listo el inventario
+20/09/2021 20:19:33 Se listaron los ingredientes
+20/09/2021 20:19:33 Se genero un reporte
+20/09/2021 20:19:33 Se vendio el pedido de daniel
+20/09/2021 20:19:33 Se realizo un descuento a todos 
+20/09/2021 20:19:33 Se le regalo el pedido a koko
+20/09/2021 20:19:33 Se les regalo a todos los clientes 5 productos
+20/09/2021 20:19:33 Se listaron los pedidos
+20/09/2021 20:19:33 El programa termino
